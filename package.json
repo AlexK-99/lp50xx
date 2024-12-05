@@ -1,0 +1,13 @@
+{
+  "name": "lp50xx",
+  "version": "1.0.0",
+  "description": "Kaluma library for LP5012(12CH) and LP5009(09CH) constant current RGB driver from Texas Instrument.",
+  "main": "LP50XX.js",
+  "keywords": ["lp5012", "lp5009", "texas instrument", "ti", "rgb", "kaluma"],
+  "author": "Alexander Kettner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKettner/LP50XX.git"
+  }
+}
